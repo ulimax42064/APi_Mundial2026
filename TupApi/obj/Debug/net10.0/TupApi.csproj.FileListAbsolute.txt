@@ -1,40 +1,84 @@
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\appsettings.Development.json
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\appsettings.json
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\TupApi.staticwebassets.endpoints.json
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\TupApi.exe
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\TupApi.deps.json
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\TupApi.runtimeconfig.json
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\TupApi.dll
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\TupApi.pdb
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\DnsClient.dll
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\MongoDB.Bson.dll
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\MongoDB.Driver.dll
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\SharpCompress.dll
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\Snappier.dll
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\ZstdSharp.dll
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\TupApi.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\TupApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\TupApi.AssemblyInfoInputs.cache
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\TupApi.AssemblyInfo.cs
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\TupApi.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\TupApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\TupApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\scopedcss\bundle\TupApi.styles.css
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\staticwebassets.build.json
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\staticwebassets.build.json.cache
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\staticwebassets.development.json
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\TupApi.csproj.Up2Date
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\TupApi.dll
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\refint\TupApi.dll
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\TupApi.pdb
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\TupApi.genruntimeconfig.cache
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\obj\Debug\net10.0\ref\TupApi.dll
-C:\Users\User\Desktop\TUP\Programación III\API\TupApi\bin\Debug\net10.0\partidos_seed.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/appsettings.Development.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/appsettings.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/TupApi.staticwebassets.endpoints.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/TupApi.exe
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/TupApi.deps.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/TupApi.runtimeconfig.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/TupApi.dll
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/TupApi.pdb
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/DnsClient.dll
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/MongoDB.Bson.dll
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/MongoDB.Driver.dll
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/SharpCompress.dll
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/Snappier.dll
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/ZstdSharp.dll
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/TupApi.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/rpswa.dswa.cache.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/TupApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/TupApi.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/TupApi.AssemblyInfo.cs
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/TupApi.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/TupApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/TupApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/rjimswa.dswa.cache.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/scopedcss/bundle/TupApi.styles.css
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/staticwebassets.build.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/staticwebassets.build.json.cache
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/staticwebassets.development.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/swae.build.ex.cache
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/TupApi.csproj.Up2Date
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/TupApi.dll
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/refint/TupApi.dll
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/TupApi.pdb
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/TupApi.genruntimeconfig.cache
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/obj/Debug/net10.0/ref/TupApi.dll
+C:/Users/User/Desktop/TUP/Programación III/API/TupApi/bin/Debug/net10.0/partidos_seed.json
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/TupApi.csproj.AssemblyReference.cache
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/rpswa.dswa.cache.json
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/TupApi.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/TupApi.AssemblyInfoInputs.cache
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/TupApi.AssemblyInfo.cs
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/TupApi.csproj.CoreCompileInputs.cache
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/TupApi.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/TupApi.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/TupApi.sourcelink.json
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/TupApi.dll
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/refint/TupApi.dll
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/TupApi.pdb
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/appsettings.Development.json
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/appsettings.json
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/partidos_seed.json
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/TupApi.staticwebassets.endpoints.json
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/TupApi
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/TupApi.deps.json
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/TupApi.runtimeconfig.json
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/TupApi.dll
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/TupApi.pdb
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/DnsClient.dll
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/MongoDB.Bson.dll
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/MongoDB.Driver.dll
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/SharpCompress.dll
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/Snappier.dll
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/APi_Mundial2026/TupApi/bin/Debug/net10.0/ZstdSharp.dll
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/scopedcss/bundle/TupApi.styles.css
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/staticwebassets.build.json
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/staticwebassets.build.json.cache
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/staticwebassets.development.json
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/swae.build.ex.cache
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/TupApi.csproj.Up2Date
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/TupApi.genruntimeconfig.cache
+/workspaces/APi_Mundial2026/TupApi/obj/Debug/net10.0/ref/TupApi.dll
