@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TupApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cc2b867c583b2e908c356cb8cbcd853ce328683")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59fc8586c6a1b225502ab660ab54508f281322c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TupApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TupApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
